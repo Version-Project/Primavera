@@ -1,0 +1,6 @@
+{5ea8d380-3986-4901-aadb-fff70e4632ce} bank:/Master
+{c6b5f354-48fd-0543-2c92-7509ffb53456} bank:/Master.strings
+{10f59773-cdd3-4499-a464-03224e7f1c1b} bus:/
+{ff3adf49-4470-49d1-99c1-94b89bf2e42f} bus:/Reverb
+{69717bd0-00af-4b14-85c2-fccbbb146f19} event:/UI/UI_FactionTurnInfo
+{e0125f28-b5da-4f9e-8803-8d860cf5279d} event:/UI/UI_MessageInfo

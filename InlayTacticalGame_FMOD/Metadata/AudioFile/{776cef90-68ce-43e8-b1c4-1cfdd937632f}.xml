@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{776cef90-68ce-43e8-b1c4-1cfdd937632f}">
+		<property name="assetPath">
+			<value>Games, Video, GUI Menu Button, Select OK, Fire, Interference, Thump 01 SND67946.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.0646666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7381de53-6f67-4c7b-b630-3f5581df7c2b}</destination>
+		</relationship>
+	</object>
+</objects>
