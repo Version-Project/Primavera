@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="EventFolder" id="{58c34349-42d4-47f0-829a-35e643ef79e9}">
+	<object class="EventFolder" id="{68985805-131e-4da9-a44d-e698ae362a2a}">
 		<property name="color">
 			<value>Red</value>
 		</property>
 		<property name="name">
-			<value>UI</value>
+			<value>U_SP_Inlayer</value>
 		</property>
 		<relationship name="folder">
-			<destination>{9d23dcd6-5a94-4b45-8849-4190033fd9e7}</destination>
+			<destination>{a7dbc71f-0cf6-45cd-bf45-a70f3f7a1a7f}</destination>
 		</relationship>
 	</object>
 </objects>

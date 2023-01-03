@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{69717bd0-00af-4b14-85c2-fccbbb146f19}">
 		<property name="color">
-			<value>Red</value>
+			<value>Cyan Light 2</value>
 		</property>
 		<property name="name">
 			<value>UI_FactionTurnInfo</value>
