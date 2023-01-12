@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5e004c14-f777-4a44-ba23-106c51156abc}">
+		<property name="assetPath">
+			<value>SplatDropWatermelon_S011T_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.624</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7381de53-6f67-4c7b-b630-3f5581df7c2b}</destination>
+		</relationship>
+	</object>
+</objects>

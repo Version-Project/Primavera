@@ -4,7 +4,8 @@
 		<property name="note">
 			<value>RED: Pas de son
 YELLOW: Placeholder
-GREEN: Son final</value>
+GREEN: Son final
+LIGHT BLUE: Annulé</value>
 		</property>
 		<property name="color">
 			<value>Purple</value>
