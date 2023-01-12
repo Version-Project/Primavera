@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6f312504-a497-4837-b743-fa6f31519264}">
+		<property name="assetPath">
+			<value>SSPR_Charge.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.8461451247165532</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7381de53-6f67-4c7b-b630-3f5581df7c2b}</destination>
+		</relationship>
+	</object>
+</objects>
